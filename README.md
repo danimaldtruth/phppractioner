@@ -1,2 +1,2 @@
 # phppractioner
-lesson work/bonus work from phppractioner on laravelcasts
+lesson work/bonus work from phppractioner on laracasts

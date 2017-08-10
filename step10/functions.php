@@ -9,5 +9,13 @@ function oldenough() { if ($guestage < $minage)
 
 					}
 
-					
+						
+
+					else 
+
+
+						echo "Welcome to Jelly Bear's Island of Sweets. The greatest club this side of rainbow road.";
+					}
+
+
 ?>
